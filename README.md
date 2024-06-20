@@ -24,7 +24,7 @@ Welcome to the G13-CSS repository! This project aims to teach CSS concepts to be
 
 ### Installation
 1. Clone this repository:
-`git clone https://github.com/yourusername/G13-CSS.git`
+`git clone git@github.com:kakajan/G13-CSS.git`
 
 
 2. Open the project in your preferred text editor.
